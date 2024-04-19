@@ -11,7 +11,9 @@
 
 ## comentarios:
     se usa los siguientes:
-        
+        * #esto es un comentacio
+        * """ Comentarios multilineas
+        * """
 ## Variables 
  * Nos permiten almancenar informacion en la memoria para posterios uso:
    ```python

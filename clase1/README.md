@@ -1,5 +1,10 @@
 # Inicio para repasar python:
 
+# Descargar python de lagina oficial
+ - python.org
+ - Visual Studio Code
+  
+
 ## Aqui la funcion print() :
 ## Primer programa de en python:
     print("##########################")

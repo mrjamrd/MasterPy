@@ -20,8 +20,7 @@
 ## Variables 
  * Nos permiten almancenar informacion en la memoria para posterios uso:
    ```python
-
-   `
+   ```
     nombre = "Juan"
     a = 10 
     b = 36
@@ -31,6 +30,42 @@
 ## Comentarios en  python:
     * ##
     * """ """
-## Funciones en python:     
+# Concatenar las diferentes formas usando operadores y funcion format() y f
 
-    * Nombre
+    print(nombre + ""+ apellido)
+
+    print(f"{nombre} {apellido}")
+
+    print("es nombre{} apellido{}".format(nombre,apellido
+    ))
+
+# variables 
+    nombre = "Jose Armando Matias"
+    Contenacion es print(nombre + ""+ apellido)
+
+# tipo de datos:
+    nada = none 
+    cadena = "Un texto"
+    entero = 10
+    flotante = 3.1416
+    booleano = True 
+    lista = [10,20,30,400]
+    tupla = ("hi","Hello","Bye")
+    dicionario = {
+                  "nombre":"juan",
+                  "edad":15 , 
+                  "email":"juan@gmail.com" 
+                 }
+    print(type(flotante))
+    **type()** => esta funcion devuelve tipo de variables
+    > Esta funcion cuando quiere saber el tipo de una variables.
+
+# Curiosidades de las variables y las cadenas de texto (String):
+mi_texto = "Master"
+mi_texto2 = "en "\python\" "
+txt = mi_texto +" "+ mi_texto2
+print(txt)
+
+# Funciones en python:     
+
+    
